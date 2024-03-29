@@ -11,6 +11,9 @@ void input() {
 	{
 		cout << "masukan panjang elemen array : ";
 		cin >> n;
+
+		if (n <= 20)
+			break;
 	
 	}
 }
