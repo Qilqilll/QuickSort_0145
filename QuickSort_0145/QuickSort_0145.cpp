@@ -50,4 +50,5 @@ void q_short(int low, int high)
 
 	privot = arr[low]; 
 	i = low + 1;
+	j = high;
 }
