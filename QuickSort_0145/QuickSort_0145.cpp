@@ -16,6 +16,11 @@ void input() {
 			break;
 		else
 			cout << "<\nMasukan panjang array adalah 20" << endl;
-	
 	}
+
+	cout << "\n-------------------" << endl;
+	cout << "\nEnter Array Element" << endl;
+	cout << "\n-------------------" << endl;
+
 }
+
